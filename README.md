@@ -1,8 +1,6 @@
-- 👋 I'm Fabiana Cradozo
-- 👀 I'm interested in web development
-- 🌱 I'm currently learning JAVA and improving my PHP, Front-end
-- 💞️ I'm looking to collaborate on small projects
-- 📫 Contact me at my email fabianancardozo@gmail.com
+👋 I'm Fabiana Cradozo
+👀 I'm interested in web development
+📫 Contact me at my email fabianancardozo@gmail.com
 
 <!---
 fabiananoemicardozo/fabiananoemicardozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
