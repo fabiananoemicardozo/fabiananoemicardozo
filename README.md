@@ -1,5 +1,7 @@
 - 👋 I'm Fabiana Cradozo.
-- 👀 I'm interested in web development.
+- 🧑‍🚀 Java/Spring/Hibernate/Pom/Intellij
+- 🧑‍💻 JavaScript/Angular/React/Bootstrap
+- 🕵️ MySQL/Dbeaver/WebPack/Json/Html/CSS
 - 📫 Contact me at my email fabianancardozo@gmail.com
 
 <!---
