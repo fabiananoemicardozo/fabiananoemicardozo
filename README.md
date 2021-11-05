@@ -1,4 +1,4 @@
-- 👋 I'm Fabiana Cradozo.
+- 👋 I'm Fabiana.
 - 🧑‍🚀 Java/Spring/Hibernate/Pom/Intellij
 - 🧑‍💻 JavaScript/Angular/React/Bootstrap
 - 🕵️ MySQL/Dbeaver/WebPack/Json/Html/CSS
