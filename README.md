@@ -1,7 +1,7 @@
 - 👋 I'm Fabiana.
 - 🧑‍🚀 Java/Spring/Hibernate/Pom/Intellij
 - 🧑‍💻 JavaScript/Angular/React/Bootstrap
-- 🕵️ MySQL/Dbeaver/WebPack/Json/Html/CSS
+- 🕵️ MySQL/WebPack/Json/Html/CSS
 - 📫 Contact fabianancardozo@gmail.com
 
 <!---
