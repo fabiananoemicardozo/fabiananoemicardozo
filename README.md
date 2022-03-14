@@ -1,7 +1,9 @@
 - 👋 I'm Fabiana.
-- 🧑‍🚀 Java/Spring/Hibernate/Pom/Intellij
-- 🧑‍💻 JavaScript/Angular/React/Bootstrap
-- 🕵️ MySQL/WebPack/Json/Html/CSS
+- 📲 App iOS/Android/Web
+- 🧑‍💻 JavaScript/TypeScript/React/ReactNative
+- 🎨 HTML/CSS/Bootstrap/Figma
+- 🗄️ ApiSauce/ApiREST/Axios/Firebase/MySQL
+- 🧑‍🚀 JavaEE/Spring/Hibernate/Maven
 - 📫 Contact fabianancardozo@gmail.com
 
 <!---
