@@ -1,10 +1,3 @@
-- 👋 I'm Fabiana.
-- 📲 App iOS/Android/Web
-- 🧑‍💻 JavaScript/TypeScript/React/ReactNative
-- 🎨 HTML/CSS/Bootstrap/Figma
-- 🗄️ ApiSauce/ApiREST/Axios/Firebase/MySQL
-- 🧑‍🚀 JavaEE/Spring/Hibernate/Maven
-- 🤓 You can see more projects on Bitbucket:
 - https://bitbucket.org/fabianancardozo
 - 📫 Contact fabianancardozo@gmail.com
 
